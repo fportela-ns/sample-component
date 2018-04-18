@@ -1,0 +1,1 @@
+## https://www.npmjs.com/package/my-component-sample-flavio
